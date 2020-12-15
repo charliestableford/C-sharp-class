@@ -46,6 +46,20 @@ namespace Conditionals
             // Console.WriteLine(price);
 
             // 
+            var season = Season.Autumn;
+            switch(season)
+            {
+                case Season.Autumn:
+                    Console.WriteLine("It's Autmmn and a beautiful season.");
+                    break;
+                case Season.Summer:
+                    Console.WriteLine("It's perefec to go to the beach");
+                    break;
+
+                default:
+                    Console.WriteLine("I don't get it");
+                    break;
+            }
 
         }
 
