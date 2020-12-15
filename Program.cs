@@ -2,16 +2,16 @@
 //notes
 
 //starting with
-namespace Course
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+// namespace Course
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//             Console.WriteLine("Hello World!");
+//         }
+//     }
+// }
 
 //conditionals
 //if and else or switch and conditional operators
