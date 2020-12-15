@@ -10,3 +10,14 @@ namespace Course
         }
     }
 }
+
+namespace Conditionals
+{
+    class Program
+    {
+        static void Main(string[] args){
+            
+        }
+
+    }
+}
