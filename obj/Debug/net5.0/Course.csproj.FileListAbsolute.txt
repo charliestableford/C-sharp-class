@@ -1,0 +1,15 @@
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/Course.deps.json
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/Course.runtimeconfig.json
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/Course.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/Course.dll
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/ref/Course.dll
+/Applications/MAMP/htdocs/C#Class/Course/bin/Debug/net5.0/Course.pdb
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.csprojAssemblyReference.cache
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.AssemblyInfo.cs
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.dll
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/ref/Course.dll
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.pdb
+/Applications/MAMP/htdocs/C#Class/Course/obj/Debug/net5.0/Course.genruntimeconfig.cache
