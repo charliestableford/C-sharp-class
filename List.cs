@@ -19,6 +19,16 @@ namespace List
             Console.WriteLine(numbers.IndexOf(1));
 
             Console.WriteLine(numbers.LastIndexOf(1));
+
+            Console.WriteLine("Count: " + numbers.Count);
+            numbers.Remove(1);
+            foreach(var number in numbers)
+            {
+                if(number ==1 )
+                {
+                    numbers.Remove(number)
+                }
+            }
         }
     }
 }
