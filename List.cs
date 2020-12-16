@@ -24,12 +24,18 @@ namespace List
             numbers.Remove(1);
 
             for (var i=0; i <numbers.Count; i++)
-            foreach(var number in numbers)
             {
-                if(number ==1 )
+            if(number ==1 )
                 {
                     numbers.Remove(number);
                 }
+            }
+            foreach(var number in numbers)
+            {
+                // if(number ==1 )
+                // {
+                //     numbers.Remove(number);
+                // }
                 foreach (var numner in numbers)
                 Console.WriteLine(number);
             }
