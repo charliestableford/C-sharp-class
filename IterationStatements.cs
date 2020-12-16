@@ -52,12 +52,12 @@ using System;
 //     }
 // }
 
-namespace Iterations
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+// namespace Iterations
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
             // var i=0;
             // while(i<=10)
             // {
@@ -93,6 +93,6 @@ namespace Iterations
             // loop over between 1-10
             // Console.WriteLine(random.Next(1,10));
             // Console.Write((char)random.Next(0,26));
-        }
-    }
-}
+//         }
+//     }
+// }
