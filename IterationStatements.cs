@@ -58,12 +58,28 @@ namespace Iterations
     {
         static void Main(string[] args)
         {
-            var i=0;
-            while(i<=10)
+            // var i=0;
+            // while(i<=10)
+            // {
+            //     if(i % 2 == 0)
+            //     Console.WriteLine(i);
+            //     i++;
+            // }
+
+            while (true)
             {
-                if(i % 2 == 0)
-                Console.WriteLine(i);
-                i++;
+                Console.Write("type your name");
+                var input = Console.ReadLine();
+
+                if(!String.IsNullOrWhiteSpace(input))
+                {
+                    Console.WriteLine("@echo: "+ input);
+                    // the program will continue to the beginning of the loop
+                    continue;
+                }
+                break;
+
+                
             }
         }
     }
