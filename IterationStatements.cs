@@ -66,21 +66,25 @@ namespace Iterations
             //     i++;
             // }
 
-            while (true)
-            {
-                Console.Write("type your name");
-                var input = Console.ReadLine();
+            // while (true)
+            // {
+            //     Console.Write("type your name");
+            //     var input = Console.ReadLine();
 
-                if(!String.IsNullOrWhiteSpace(input))
-                {
-                    Console.WriteLine("@echo: "+ input);
-                    // the program will continue to the beginning of the loop
-                    continue;
-                }
-                break;
+            //     if(!String.IsNullOrWhiteSpace(input))
+            //     {
+            //         Console.WriteLine("@echo: "+ input);
+            //         // the program will continue to the beginning of the loop
+            //         continue;
+            //     }
+            //     break;
 
                 
-            }
+            // }
+
+            var random = new Random();
+            for(var i=0; i<10;i++)
+            Console.WriteLine(random.Next());
         }
     }
 }
