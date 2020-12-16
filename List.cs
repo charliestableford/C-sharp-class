@@ -22,12 +22,16 @@ namespace List
 
             Console.WriteLine("Count: " + numbers.Count);
             numbers.Remove(1);
+
+            for (var i=0; i <numbers.Count; i++)
             foreach(var number in numbers)
             {
                 if(number ==1 )
                 {
-                    numbers.Remove(number)
+                    numbers.Remove(number);
                 }
+                foreach (var numner in numbers)
+                Console.WriteLine(number);
             }
         }
     }
