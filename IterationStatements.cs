@@ -8,7 +8,13 @@ namespace Iteration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for(var i=1; i <= 10; i++)
+            {
+                if(i % 2==0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }
